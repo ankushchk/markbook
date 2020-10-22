@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/@material-ui/core
+/@material-ui/icons
+/firebase
 
 # testing
 /coverage
